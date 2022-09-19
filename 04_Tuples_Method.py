@@ -1,0 +1,5 @@
+# Creating a tuples using ()  
+t = (1, 2, 5, 7, 9, 4, 2, 2)
+print(t.count(2))
+print(t.index(2))
+print(t.index(7))
